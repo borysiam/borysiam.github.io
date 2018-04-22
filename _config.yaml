@@ -1,0 +1,6 @@
+# Site settings
+title: The Polish BSD User Group
+#url: ""
+
+# Build settings
+markdown: kramdown
