@@ -1,6 +1,6 @@
 # Site settings
 title: The Polish BSD User Group
-#url: ""
+url: "bsd-pl.org"
 
 # Build settings
 markdown: kramdown
