@@ -1,6 +1,7 @@
 # Site settings
 title: The Polish BSD User Group
 url: "bsd-pl.org"
+logo: "bsdpl-logo.png"
 
 # Build settings
-markdown: kramdown
+theme: jekyll-theme-minimal
