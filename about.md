@@ -7,13 +7,18 @@ permalink: /
 
 <h1>Next meeting</h1>
 
-Our next meeting will be held on May 24 2018 at:
+When:
+<pre>
+May 24 2018
+18:30 - 21:00
+</pre>
+Where:
 <pre>
 Wheel Systems Office
 Aleje Jerozolimskie 178
 Warsaw
 </pre>
 
-Registarion is open at: URL_TO_REGISTATION
+Registarion is open at: http://bit.ly/bsd-pl-1
 
 See you there!
