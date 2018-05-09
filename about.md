@@ -19,6 +19,6 @@ Aleje Jerozolimskie 178
 Warsaw
 </pre>
 
-Registarion is open at: http://bit.ly/bsd-pl-1
+<a href="http://bit.ly/bsd-pl-1">Click to register</a>
 
 See you there!
