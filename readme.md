@@ -3,9 +3,9 @@ layout: default
 permalink: /
 ---
 <h1>About us</h1>
-<p>Our group was created to promote systems from the BSD family. We organize meetings that bring together lovers of Unix systems. At the meetings, we conduct presentations and open discussions on topics related to operating systems. It is important to us that the events we organize are interesting for anyone interested in the subject of operating systems and security. Everyone can influence the subject of presentations and discussions. We are also open to people who want to talk about any chosen issue not strictly related to the operating systems.</p>
+<p>Our group was created to promote systems from the BSD family. We organize meetings that bring together lovers of Unix systems. At the meetings, we conduct presentations and open discussions on topics related to operating systems. It is important to us that the events we organize are compeling for anyone interested in the subject of operating systems and security. Everyone can suggest the subject of presentations and discussions. We are happy to hear from anyone who wants to talk about any chosen issue not strictly related to operating systems.</p>
 
-<h1>Next meeting</h1>
+<h1>Our upcoming meeting</h1>
 
 When:
 <pre>
