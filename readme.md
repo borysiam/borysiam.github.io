@@ -20,8 +20,8 @@ Warsaw
 </pre>
 What:
 <pre>
-1. What is FreeBSD?
-2. Checkpoints in ZFS.
+1. Introduction to the FreeBSD Project.
+2. Checkpoints in Zettabyte File System.
 3. Qubes OS.
 </pre>
 
