@@ -21,6 +21,12 @@ Wheel Systems
 Aleje Jerozolimskie 178
 Warszawa
 </pre>
+O czym:
+<pre>
+1. Czym jest FreeBSD?
+2. Checkpointy w ZFS.
+3. Qubes OS.
+</pre>
 
 <a href="http://bit.ly/bsd-pl-1">Rejestracja</a>
 
