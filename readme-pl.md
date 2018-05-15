@@ -23,8 +23,8 @@ Warszawa
 </pre>
 O czym:
 <pre>
-1. Czym jest FreeBSD?
-2. Checkpointy w ZFS.
+1. Introduction to the FreeBSD Project.
+2. Checkpoints in Zettabyte File System.
 3. Qubes OS.
 </pre>
 
