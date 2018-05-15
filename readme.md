@@ -18,6 +18,12 @@ Wheel Systems Office
 Aleje Jerozolimskie 178
 Warsaw
 </pre>
+What:
+<pre>
+1. What is FreeBSD?
+2. Checkpoints in ZFS.
+3. Qubes OS.
+</pre>
 
 <a href="http://bit.ly/bsd-pl-1">Click to register</a>
 
