@@ -28,3 +28,5 @@ What:
 <a href="http://bit.ly/bsd-pl-1">Click to register</a>
 
 See you there!
+
+![Topics](bsd-words-cloud.png)
