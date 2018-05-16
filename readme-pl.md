@@ -36,3 +36,5 @@ Wojtek Porczyk
 <a href="http://bit.ly/bsd-pl-1">Rejestracja</a>
 
 Do zobaczenia!
+
+![Topics](bsd-words-cloud.png)
