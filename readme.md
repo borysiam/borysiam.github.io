@@ -20,9 +20,14 @@ Warsaw
 </pre>
 What:
 <pre>
-1. Introduction to the FreeBSD Project.
-2. Checkpoints in Zettabyte File System.
-3. Qubes OS.
+Introduction to the FreeBSD Project.
+Konrad Witaszczyk
+
+Checkpoints in Zettabyte File System.
+Mariusz Zaborski
+
+Qubes OS.
+Wojtek Porczyk
 </pre>
 
 <a href="http://bit.ly/bsd-pl-1">Click to register</a>
