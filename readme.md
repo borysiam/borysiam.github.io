@@ -1,6 +1,6 @@
 ---
+title: "The Polish BSD User Group"
 layout: default
-title: "Polska Grupa Użytkowników BSD"
 permalink: /en
 ---
 <h1>About us</h1>
