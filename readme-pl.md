@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Polska Grupa Użytkowników BSD"
-permalink: /pl
+title: "The Polish BSD User Group"
+permalink: /
 ---
 <h1>O nas</h1>
 <p>
