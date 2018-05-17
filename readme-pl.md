@@ -26,7 +26,7 @@ O czym:
 Introduction to the FreeBSD Project.
 Konrad Witaszczyk
 
-Checkpoints in Zettabyte File System.
+Checkpoints in ZFS.
 Mariusz Zaborski
 
 Qubes OS.
