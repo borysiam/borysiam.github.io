@@ -1,5 +1,5 @@
 ---
-title: "The Polish BSD User Group"
+title: "Polish BSD User Group"
 layout: default
 permalink: /en
 ---

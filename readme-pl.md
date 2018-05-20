@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Polish BSD User Group"
+title: "Polish BSD User Group"
 permalink: /
 ---
 <h1>O nas</h1>
