@@ -6,6 +6,7 @@ permalink: /talks/
 
 {% for pdf in site.static_files %}
 	{% if pdf.path contains 'assets/talks' %}
-		<a href="{{ site.baseurl }}{{ pdf.path }}" />{{ pdf.basename }}</a>
+		{% assign title = pdf.basename | split: '_' %}
+		<a href="{{ site.baseurl }}{{ pdf.path }}" />{{ title[0] }} {{ title[3] | split: '-' | join: ' ' }} by {{ title [2] | split: '-' | join: ' '}}</a>
 	{% endif %}
 {% endfor %}
