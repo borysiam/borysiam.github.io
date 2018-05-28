@@ -6,6 +6,6 @@ permalink: /talks/
 
 {% for pdf in site.static_files %}
 	{% if pdf.path contains 'assets/talks' %}
-		<a href="{{ site.baseurl }}{{ pdf.path }}" />{{ pdf.path }}</a>
+		<a href="{{ site.baseurl }}{{ pdf.path }}" />{{ pdf.basename }}</a>
 	{% endif %}
 {% endfor %}
