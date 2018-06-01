@@ -7,6 +7,11 @@ permalink: /talks/
 {% for pdf in site.static_files %}
 	{% if pdf.path contains 'assets/talks' %}
 		{% assign title = pdf.basename | split: '_' %}
-		{{ title[0] }} <a href="{{ site.baseurl }}{{ pdf.path }}" />{{ title[3] | split: '-' | join: ' ' }} by {{ title [2] | split: '-' | join: ' '}}</a><br/>
+
+		{% if pdf.extname == '.txt' %}
+			{{ title[0] }} {{ title[3] | split: '-' | join: ' ' }} by {{ title [2] | split: '-' | join: ' '}}<br/>
+		{% else %}
+			{{ title[0] }} <a href="{{ site.baseurl }}{{ pdf.path }}" />{{ title[3] | split: '-' | join: ' ' }} by {{ title [2] | split: '-' | join: ' '}}</a><br/>
+		{% endif %}
 	{% endif %}
 {% endfor %}
