@@ -12,7 +12,7 @@ Grupa powstała z myślą o promowaniu systemów z rodziny BSD. Organizujemy spo
 
 Kiedy:
 <pre>
-24 Maja 2018 r.
+27 Czerwca 2018 r.
 18:30 - 21:00
 </pre>
 Gdzie:
@@ -23,16 +23,9 @@ Warszawa
 </pre>
 O czym:
 <pre>
-Introduction to the FreeBSD Project.
-Konrad Witaszczyk
-
-Checkpoints in Zettabyte File System.
-Mariusz Zaborski
-
-Qubes OS.
-Wojtek Porczyk
+Informacja pojawi się wkrótce.
 </pre>
 
-<a href="http://bit.ly/bsd-pl-1">Rejestracja</a>
+<a href="">Rejestracja</a>
 
 Do zobaczenia!

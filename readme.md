@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-May 24 2018
+April 27 2018
 18:30 - 21:00
 </pre>
 Where:
@@ -21,16 +21,9 @@ Warsaw
 </pre>
 What:
 <pre>
-Introduction to the FreeBSD Project.
-Konrad Witaszczyk
-
-Checkpoints in Zettabyte File System.
-Mariusz Zaborski
-
-Qubes OS.
-Wojtek Porczyk
+Information will be announced soon.
 </pre>
 
-<a href="http://bit.ly/bsd-pl-1">Click to register</a>
+<a href="">Click to register</a>
 
 See you there!
