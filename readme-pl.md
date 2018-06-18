@@ -26,7 +26,7 @@ O czym:
 Informacja pojawi się wkrótce.
 </pre>
 
-<a href="">Rejestracja</a>
+<a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-2-meetup-tickets-46879268153?aff=erelexpmlt">Rejestracja</a>
 
 Do zobaczenia!
 

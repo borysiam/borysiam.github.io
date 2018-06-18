@@ -24,7 +24,7 @@ What:
 Information will be announced soon.
 </pre>
 
-<a href="">Click to register</a>
+<a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-2-meetup-tickets-46879268153?aff=erelexpmlt">Click to register</a>
 
 See you there!
 
