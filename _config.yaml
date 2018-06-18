@@ -1,6 +1,6 @@
 # Site settings.
-title: The Polish BSD User Group
-url: "http://bsd-pl.org"
+title: Polish BSD User Group
+url: "https://bsd-pl.org"
 logo: "bsdpl-logo.png"
 
 # Build settings.

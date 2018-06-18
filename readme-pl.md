@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Polish BSD User Group"
+title: "Polish BSD User Group"
 permalink: /
 ---
 <h1>O nas</h1>
@@ -29,3 +29,5 @@ Informacja pojawi się wkrótce.
 <a href="">Rejestracja</a>
 
 Do zobaczenia!
+
+![Topics](bsd-words-cloud.png)

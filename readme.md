@@ -1,5 +1,5 @@
 ---
-title: "The Polish BSD User Group"
+title: "Polish BSD User Group"
 layout: default
 permalink: /en
 ---
@@ -27,3 +27,5 @@ Information will be announced soon.
 <a href="">Click to register</a>
 
 See you there!
+
+![Topics](bsd-words-cloud.png)
