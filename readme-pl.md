@@ -23,7 +23,11 @@ Warszawa
 </pre>
 O czym:
 <pre>
-Informacja pojawi się wkrótce.
+(TBA)
+Paweł Jakub Dawidek
+
+Monitoring - niezbędnik w pracy admina
+Kamil Czekirda
 </pre>
 
 <a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-2-meetup-tickets-46879268153?aff=erelexpmlt">Rejestracja</a>

@@ -21,7 +21,11 @@ Warsaw
 </pre>
 What:
 <pre>
-Information will be announced soon.
+(TBA)
+Paweł Jakub Dawidek
+
+Monitoring - administrator's toolkit
+Kamil Czekirda
 </pre>
 
 <a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-2-meetup-tickets-46879268153?aff=erelexpmlt">Click to register</a>
