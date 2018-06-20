@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-April 27 2018
+June 27 2018
 18:30 - 21:00
 </pre>
 Where:
