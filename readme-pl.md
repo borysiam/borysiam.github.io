@@ -21,6 +21,9 @@ Warszawa
 </pre>
 O czym:
 <pre>
+YubiKey dla użytkowników FreeBSD
+Jarosław Żurek
+
 (TBA)
 Paweł Jakub Dawidek
 
