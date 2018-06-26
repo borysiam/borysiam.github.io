@@ -24,7 +24,7 @@ O czym:
 YubiKey dla użytkowników FreeBSD
 Jarosław Żurek
 
-(TBA)
+ZeroTrust
 Paweł Jakub Dawidek
 
 Monitoring - niezbędnik w pracy admina

@@ -24,7 +24,7 @@ What:
 YubiKey for FreeBSD users
 Jarosław Żurek
 
-(TBA)
+ZeroTrust
 Paweł Jakub Dawidek
 
 Monitoring - administrator's toolkit
