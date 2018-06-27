@@ -24,6 +24,9 @@ O czym:
 YubiKey dla użytkowników FreeBSD
 Jarosław Żurek
 
+(TBA)
+Andrzej Toboła
+
 ZeroTrust
 Paweł Jakub Dawidek
 
