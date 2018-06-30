@@ -24,10 +24,10 @@ What:
 YubiKey for FreeBSD users
 Jarosław Żurek
 
-(TBA)
+FreeBSD System at IETiSIP PW
 Andrzej Toboła
 
-ZeroTrust
+ZeroTrust Initiative
 Paweł Jakub Dawidek
 
 Monitoring - administrator's toolkit
