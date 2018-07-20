@@ -10,31 +10,19 @@ permalink: /
 
 Kiedy:
 <pre>
-27 Czerwca 2018 r.
+30 lipca 2018 r.
 18:30 - 21:00
 </pre>
 Gdzie:
 <pre>
-Wheel Systems
+Wheel Systems Office
 Aleje Jerozolimskie 178
 Warszawa
 </pre>
 O czym:
 <pre>
-YubiKey dla użytkowników FreeBSD
-Jarosław Żurek
-
-System FreeBSD w IETiSIP PW
-Andrzej Toboła
-
-ZeroTrust Initiative
-Paweł Jakub Dawidek
-
-Monitoring - niezbędnik w pracy admina
-Kamil Czekirda
+TBA
 </pre>
-
-<a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-2-meetup-tickets-46879268153?aff=erelexpmlt">Rejestracja</a>
 
 Do zobaczenia!
 

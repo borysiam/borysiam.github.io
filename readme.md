@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-June 27 2018
+July 30 2018
 18:30 - 21:00
 </pre>
 Where:
@@ -21,20 +21,8 @@ Warsaw
 </pre>
 What:
 <pre>
-YubiKey for FreeBSD users
-Jarosław Żurek
-
-FreeBSD System at IETiSIP PW
-Andrzej Toboła
-
-ZeroTrust Initiative
-Paweł Jakub Dawidek
-
-Monitoring - administrator's toolkit
-Kamil Czekirda
+TBA
 </pre>
-
-<a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-2-meetup-tickets-46879268153?aff=erelexpmlt">Click to register</a>
 
 See you there!
 
