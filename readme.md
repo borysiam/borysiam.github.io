@@ -20,8 +20,15 @@ Aleje Jerozolimskie 178
 Warsaw
 </pre>
 What:
-<pre>
-TBA
+<pre style="white-space: pre-wrap;">
+How to configure centralized authentication (ssh and sudo) with FreeIPA software on FreeBSD system.
+Krzysztof Toczyski
+
+ZFS Boot Environments
+Sławomir Wojciech Wojtczak (vermaden)
+
+Komputery zależnościowe w systemach sterowania ruchem kolejowym
+Michał Jędrzejczak
 </pre>
 
 <a href="http://bit.ly/bsd-pl-3">Click to register</a>

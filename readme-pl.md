@@ -20,8 +20,15 @@ Aleje Jerozolimskie 178
 Warszawa
 </pre>
 O czym:
-<pre>
-TBA
+<pre style="white-space: pre-wrap;">
+Jak skonfigurować scentralizowane uwierzytelnianie (ssh i sudo) za pomocą oprogramowania FreeIPA w systemie FreeBSD.
+Krzysztof Toczyski
+
+ZFS Boot Environments
+Sławomir Wojciech Wojtczak (vermaden)
+
+Komputery zależnościowe w systemach sterowania ruchem kolejowym
+Michał Jędrzejczak
 </pre>
 
 <a href="http://bit.ly/bsd-pl-3">Rejestracja</a>
