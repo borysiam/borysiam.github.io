@@ -24,6 +24,8 @@ What:
 TBA
 </pre>
 
+<a href="http://bit.ly/bsd-pl-3">Click to register</a>
+
 See you there!
 
 ![Topics](bsd-words-cloud.png)
