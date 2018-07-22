@@ -27,7 +27,7 @@ Krzysztof Toczyski
 ZFS Boot Environments
 Sławomir Wojciech Wojtczak (vermaden)
 
-Komputery zależnościowe w systemach sterowania ruchem kolejowym
+Vital computer in train control systems.
 Michał Jędrzejczak
 </pre>
 
