@@ -9,7 +9,7 @@ permalink: /talks/
 		{% assign title = pdf.basename | split: '_' %}
 
 		{% if pdf.extname == '.txt' %}
-			{{ title[0] }} {{ title[3] | split: '-' | join: ' ' }} by {{ title [2] | split: '-' | join: ' '}}<br/>
+		  {% include {{ pdf.path }} %}
 		{% else %}
 			{{ title[0] }} <a href="{{ site.baseurl }}{{ pdf.path }}" />{{ title[3] | split: '-' | join: ' ' }} by {{ title [2] | split: '-' | join: ' '}}</a><br/>
 		{% endif %}
