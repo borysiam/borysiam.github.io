@@ -24,7 +24,7 @@ What:
 DTrace for developers
 George Neville-Neil
 
-FIFA World Cup Finals
+FIFA World Cup Finals – how to put one on the internet
 Rafał Wiosna
 </pre>
 
