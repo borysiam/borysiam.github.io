@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-July 30 2018
+August 9 2018
 18:30 - 21:00
 </pre>
 Where:
@@ -21,17 +21,14 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-How to configure centralized authentication (ssh and sudo) with FreeIPA software on FreeBSD system.
-Krzysztof Toczyski
+DTrace for developers
+George Neville-Neil
 
-ZFS Boot Environments
-Sławomir Wojciech Wojtczak (vermaden)
-
-Vital computer in train control systems.
-Michał Jędrzejczak
+FIFA World Cup Finals
+Rafał Wiosna
 </pre>
 
-<a href="http://bit.ly/bsd-pl-3">Click to register</a>
+<a href="http://bit.ly/bsd-pl-4">Click to register</a>
 
 See you there!
 

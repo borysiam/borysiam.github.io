@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-30 lipca 2018 r.
+9 sierpnia 2018 r.
 18:30 - 21:00
 </pre>
 Gdzie:
@@ -21,17 +21,14 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-Jak skonfigurować scentralizowane uwierzytelnianie (ssh i sudo) za pomocą oprogramowania FreeIPA w systemie FreeBSD.
-Krzysztof Toczyski
+DTrace dla deweloperów
+George Neville-Neil
 
-ZFS Boot Environments
-Sławomir Wojciech Wojtczak (vermaden)
-
-Komputery zależnościowe w systemach sterowania ruchem kolejowym
-Michał Jędrzejczak
+RIO 2014 – jak się robi dużą transmisję internetową
+Rafał Wiosna
 </pre>
 
-<a href="http://bit.ly/bsd-pl-3">Rejestracja</a>
+<a href="http://bit.ly/bsd-pl-4">Rejestracja</a>
 
 Do zobaczenia!
 
