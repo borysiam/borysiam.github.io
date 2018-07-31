@@ -21,10 +21,10 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-DTrace for developers
+DTrace for Developers
 George Neville-Neil
 
-FIFA World Cup Finals – how to put one on the internet
+FIFA World Cup Finals – how to put one on the Internet
 Rafał Wiosna
 </pre>
 
