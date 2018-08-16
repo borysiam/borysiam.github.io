@@ -10,7 +10,7 @@ permalink: /en
 
 When:
 <pre>
-August 9 2018
+September 13, 2018
 18:30 - 21:00
 </pre>
 Where:
@@ -21,14 +21,10 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-DTrace for Developers
-George Neville-Neil
-
-FIFA World Cup Finals – how to put one on the Internet
-Rafał Wiosna
+TBA
 </pre>
 
-<a href="http://bit.ly/bsd-pl-4">Click to register</a>
+<a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-meetup-5-tickets-48924569705?aff=erelexpmlt">Click to register</a>
 
 See you there!
 

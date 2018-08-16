@@ -10,7 +10,7 @@ permalink: /
 
 Kiedy:
 <pre>
-9 sierpnia 2018 r.
+13 września 2018 r.
 18:30 - 21:00
 </pre>
 Gdzie:
@@ -21,14 +21,10 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-DTrace dla deweloperów
-George Neville-Neil
-
-RIO 2014 – jak się robi dużą transmisję internetową
-Rafał Wiosna
+TBA
 </pre>
 
-<a href="http://bit.ly/bsd-pl-4">Rejestracja</a>
+<a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-meetup-5-tickets-48924569705?aff=erelexpmlt">Rejestracja</a>
 
 Do zobaczenia!
 
