@@ -27,8 +27,8 @@ Konrad Witaszczyk
 OpenBSD Daily
 Adam Wołk
 
-Patryk "Keijo" Jaworski
 Dlaczego ARM to często platforma drugiego sortu
+Patryk "Keijo" Jaworski
 </pre>
 
 <a href="https://www.eventbrite.com/e/the-polish-bsd-user-group-meetup-5-tickets-48924569705?aff=erelexpmlt">Rejestracja</a>
