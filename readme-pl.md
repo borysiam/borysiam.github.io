@@ -10,28 +10,23 @@ permalink: /
 
 Kiedy:
 <pre>
-13 września 2018 r.
-18:30 - 21:00
+11 października 2018 r.
+18:15 - 21:15
 </pre>
 Gdzie:
 <pre>
-Wheel Systems Office
-Aleje Jerozolimskie 178
+Politechnika Warszawska
+Wydział Elektryczny
+
+ul. Koszykowa 75
 Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-BSDCam 2018 Recap
-Konrad Witaszczyk
-
-OpenBSD Daily
-Adam Wołk
-
-Dlaczego ARM to często platforma drugiego sortu
-Patryk "Keijo" Jaworski
+TBC
 </pre>
 
-<a href="https://bit.ly/bsd-pl-5">Rejestracja</a>
+<a href="https://bit.ly/bsd-pl-6">Rejestracja</a>
 
 Do zobaczenia!
 

@@ -10,28 +10,23 @@ permalink: /en
 
 When:
 <pre>
-September 13, 2018
-18:30 - 21:00
+October 11, 2018
+18:15 - 21:15
 </pre>
 Where:
 <pre>
-Wheel Systems Office
-Aleje Jerozolimskie 178
+Warsaw University of Technology
+Faculty of Electrical Engineering
+
+ul. Koszykowa 75
 Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-BSDCam 2018 Recap
-Konrad Witaszczyk
-
-OpenBSD Daily
-Adam Wołk
-
-Why is ARM a Tier 2 platform?
-Patryk "Keijo" Jaworski
+TBC
 </pre>
 
-<a href="https://bit.ly/bsd-pl-5">Click to register</a>
+<a href="https://bit.ly/bsd-pl-6">Click to register</a>
 
 See you there!
 
