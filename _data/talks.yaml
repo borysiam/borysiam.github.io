@@ -1,0 +1,96 @@
+- author: Mariusz Zaborski
+  title: BSD-PL
+  date: 2018-05-24
+  position: 0
+  link: 2018-05-24_0_Mariusz-Zaborski_BSD-PL.pdf
+
+- author: Konrad Witaszczyk
+  title: Introduction to the FreeBSD Project
+  date: 2018-05-24
+  position: 1
+  link: 2018-05-24_1_Konrad-Witaszczyk_Introduction-to-the-FreeBSD-Project.pdf
+
+- author: Mariusz Zaborski
+  title: Checkpoints in ZFS
+  date: 2018-05-24
+  position: 2
+  link: 2018-05-24_2_Mariusz-Zaborski_Checkpoints-in-ZFS.pdf
+
+- author: Wojtek Porczyk
+  title: Qubes OS
+  date: 2018-05-24
+  position: 3
+  todo-link: 2018-05-24_3_Wojtek-Porczyk_Qubes-OS.txt
+
+- author: Jarosław Żurek
+  title: YubiKey for FreeBSD users
+  date: 2018-06-27
+  position: 0
+  link: 2018-06-27_0_Jarosław-Żurek_YubiKey-for-FreeBSD-users.pdf
+
+- author: Andrzej Tobola
+  title: FreeBSD System at IETiSIP PW
+  date: 2018-06-27
+  position: 1
+  todo-link: 2018-06-27_1_Andrzej-Tobola_FreeBSD-System-at-IETiSIP-PW.txt
+
+- author: Paweł Jakub Dawidek
+  title: ZeroTrust Initiative
+  date: 2018-06-27
+  position: 2
+  link: 2018-06-27_2_Pawel-Jakub-Dawidek_ZeroTrust-Initiative.pdf
+
+- author: Kamil Czekirda
+  title: Monitoring administrator's toolkit
+  date: 2018-06-27
+  position: 3
+  external: true
+  link: https://prezi.com/view/YKo8CrtQyGC1ecc0TGqS/
+
+- author: Krzysztof Toczyski
+  title: Toczyski_How to configure centralized authentication (ssh and sudo) with FreeIPA software of FreeBSD system
+  date: 2018-07-30
+  position: 0
+  link: 2018-07-30_0_Krzysztof-Toczyski_How-to-configure-centralized-authentication-(ssh-and-sudo)-with-FreeIPA-software-on-FreeBSD-system.pdf
+
+- author: Sławomir Wojciech Wojtczak
+  title: ZFS Boot Environments
+  date: 2018-07-30
+  position: 1
+  link: 2018-07-30_1_Sławomir-Wojciech-Wojtczak_ZFS-Boot-Environments.pdf
+
+- author: Michał Jędrzejczak
+  title: Vital computer in train control systems
+  date: 2018-07-30
+  position: 2
+  todo-link: 2018-07-30_2_Michał-Jędrzejczak_Vital-computer-in-train-control-systems.txt
+
+- author: George Neville-Neil
+  title: DTrace for Developers
+  date: 2018-08-09
+  position: 0
+  link: 2018-08-09_0_George-Neville-–-Neil_DTrace-for-Developers.pdf
+
+- author: Rafał Wiosna
+  title: FIFA World Cup Finals - how to put one on the Internet
+  date: 2018-08-09
+  position: 1
+  link: 2018-08-09_1_Rafal-Wiosna_FIFA-World-Cup-Finals-–-how-to-put-one-on-the-Internet.pdf
+
+- author: Konrad Witaszczyk
+  title: BSDCam 2018 Recap
+  date: 2018-09-13
+  position: 0
+  link: 2018-09-13_0_Konrad-Witaszczyk_BSDCam-2018-Recap.pdf
+
+- author: Adam Wołk
+  title: OpenBSD Daily
+  date: 2018-09-13
+  position: 1
+  link: 2018-09-13_1_Adam-Wołk_OpenBSD-Daily.pdf
+
+- author: Patryk Keijo Jaworski
+  title: Why is ARM a Tier 2 platform?
+  date: 2018-09-13
+  position: 2
+  link: 2018-09-13_2_Patryk-Keijo-Jaworski_Why-is-ARM-a-Tier-2-platform?.pdf
