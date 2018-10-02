@@ -87,7 +87,8 @@
   title: OpenBSD Daily
   date: 2018-09-13
   position: 1
-  link: 2018-09-13_1_Adam-Wołk_OpenBSD-Daily.pdf
+  external: true
+  link: https://junk.tintagel.pl/talks/openbsd-daily.html
 
 - author: Patryk Keijo Jaworski
   title: Why is ARM a Tier 2 platform?
