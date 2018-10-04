@@ -23,7 +23,14 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-TBC
+BSD-PL 0.5. Usergroup Half-birthday.
+Krzysztof Szczepański
+
+A Brief History of Time in FreeBSD.
+Miłosz Kaniewski
+
+What are containers anyway?
+Maciej Pasternacki
 </pre>
 
 <a href="https://bit.ly/bsd-pl-6">Click to register</a>

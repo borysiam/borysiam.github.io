@@ -23,7 +23,14 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBC
+BSD-PL 0.5. Pół-urodziny grupy.
+Krzysztof Szczepański
+
+Krótka historia czasu we FreeBSD.
+Miłosz Kaniewski
+
+Czym właściwie są kontenery?
+Maciej Pasternacki
 </pre>
 
 <a href="https://bit.ly/bsd-pl-6">Rejestracja</a>
