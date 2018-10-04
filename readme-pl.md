@@ -31,6 +31,9 @@ Miłosz Kaniewski
 
 Czym właściwie są kontenery?
 Maciej Pasternacki
+
+Project Cardigan - Deep Learning Based Image Retrieval
+Mariusz Wołoszyn
 </pre>
 
 <a href="https://bit.ly/bsd-pl-6">Rejestracja</a>

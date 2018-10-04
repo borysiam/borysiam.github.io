@@ -31,6 +31,9 @@ Miłosz Kaniewski
 
 What are containers anyway?
 Maciej Pasternacki
+
+Project Cardigan - Deep Learning Based Image Retrieval
+Mariusz Wołoszyn
 </pre>
 
 <a href="https://bit.ly/bsd-pl-6">Click to register</a>
