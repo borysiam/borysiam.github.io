@@ -10,33 +10,22 @@ permalink: /en
 
 When:
 <pre>
-October 11, 2018
-18:15 - 21:15
+November 15, 2018
+18:30 - 21:00
 </pre>
 Where:
 <pre>
-Warsaw University of Technology
-Faculty of Electrical Engineering
+Wheel Systems Office
 
-ul. Koszykowa 75
+Aleje Jerozolimskie 178
 Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-BSD-PL 0.5. Usergroup Half-birthday.
-Krzysztof Szczepański
-
-A Brief History of Time in FreeBSD.
-Miłosz Kaniewski
-
-What are containers anyway?
-Maciej Pasternacki
-
-Project Cardigan - Deep Learning Based Image Retrieval
-Mariusz Wołoszyn
+TBC
 </pre>
 
-<a href="https://bit.ly/bsd-pl-6">Click to register</a>
+Registration will open soon.
 
 See you there!
 

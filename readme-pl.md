@@ -10,33 +10,22 @@ permalink: /
 
 Kiedy:
 <pre>
-11 października 2018 r.
-18:15 - 21:15
+15 listopada 2018 r.
+18:30 - 21:00
 </pre>
 Gdzie:
 <pre>
-Politechnika Warszawska
-Wydział Elektryczny
+Wheel Systems Office
 
-ul. Koszykowa 75
+Aleje Jerozolimskie 178
 Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-BSD-PL 0.5. Pół-urodziny grupy.
-Krzysztof Szczepański
-
-Krótka historia czasu we FreeBSD.
-Miłosz Kaniewski
-
-Czym właściwie są kontenery?
-Maciej Pasternacki
-
-Project Cardigan - Deep Learning Based Image Retrieval
-Mariusz Wołoszyn
+TBC
 </pre>
 
-<a href="https://bit.ly/bsd-pl-6">Rejestracja</a>
+Rejestracja zostanie wkrótce otwarta.
 
 Do zobaczenia!
 
