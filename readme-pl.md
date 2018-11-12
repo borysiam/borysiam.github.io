@@ -22,10 +22,21 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBC
+GELI - Disk encryption in FreeBSD
+Michał Borysiak
+
+OpenBSD Gaming
+Adam Wołk
+
+Hello Mr. Jenkins
+Michał Mróz
+
+Unbound & FreeBSD
+Pablo Carboni
 </pre>
 
-Rejestracja zostanie wkrótce otwarta.
+
+<a href="https://bit.ly/bsd-pl-7">Rejestracja</a>
 
 Do zobaczenia!
 

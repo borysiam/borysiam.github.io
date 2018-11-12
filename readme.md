@@ -22,10 +22,20 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-TBC
+GELI - Disk encryption in FreeBSD
+Michał Borysiak
+
+OpenBSD Gaming
+Adam Wołk
+
+Hello Mr. Jenkins
+Michał Mróz
+
+Unbound & FreeBSD
+Pablo Carboni
 </pre>
 
-Registration will open soon.
+<a href="https://bit.ly/bsd-pl-7">Click to register</a>
 
 See you there!
 
