@@ -119,3 +119,27 @@
   date: 2018-10-11
   position: 3
   link: 2018-10-11_3_Mariusz-Wołoszyn_Project-Cardigan-–-Deep-Learning-Based-Image-Retrieval.pdf
+
+- author: Michał Borysiak
+  title: GELI - Disk encryption in FreeBSD
+  date: 2018-11-15
+  position: 0
+  link: 2018-11-15_0_Michał-Borysiak_GELI-Disk-encryption-in-FreeBSD.pdf
+
+- author: Adam Wołk
+  title: OpenBSD Gaming
+  date: 2018-11-15
+  position: 1
+  link: 2018-11-15_1_Adam-Wołk_OpenBSD-Gaming.pdf
+
+- author: Michał Mróz
+  title: Hello Mr. Jenkins
+  date: 2018-11-15
+  position: 2
+  link: 2018-11-15_2_Michał-Mróz_Hello-Mr.-Jenkins.pdf
+
+- author: Pablo Carboni
+  title: Unbound & FreeBSD
+  date: 2018-11-15
+  position: 3
+  link: https://docs.google.com/presentation/d/11ykEeoHluKqNWzqLd_NVueqCU28u0Jl8r_EnSuJQrv8/edit#slide=id.p
