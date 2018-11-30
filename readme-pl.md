@@ -22,17 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-GELI - Disk encryption in FreeBSD
-Michał Borysiak
-
-OpenBSD Gaming
-Adam Wołk
-
-Hello Mr. Jenkins
-Michał Mróz
-
-Unbound & FreeBSD
-Pablo Carboni
+TBA
 </pre>
 
 
