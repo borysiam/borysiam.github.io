@@ -10,8 +10,8 @@ permalink: /en
 
 When:
 <pre>
-November 15, 2018
-18:30 - 21:00
+December 13, 2018
+18:15 - 21:00
 </pre>
 Where:
 <pre>
