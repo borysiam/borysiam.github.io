@@ -10,8 +10,8 @@ permalink: /
 
 Kiedy:
 <pre>
-15 listopada 2018 r.
-18:30 - 21:00
+13 grudnia 2018 r.
+18:15 - 21:00
 </pre>
 Gdzie:
 <pre>
