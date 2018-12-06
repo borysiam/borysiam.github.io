@@ -22,9 +22,18 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-TBA
-</pre>
+FreeNAS na microserver gen8, czyli o czym zapomniał powiedzieć producent.
+Kamil Czekirda
 
+Moduły PAMa
+Jarek Zurek
+
+Pisanie testów we frameworku PyTest
+Aleksander Kołowski
+
+FreeBSD Foundation
+Deb Goodkin
+</pre>
 
 <a href="https://bit.ly/bsd-pl-8">Rejestracja</a>
 

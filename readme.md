@@ -22,7 +22,17 @@ Warsaw
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-TBA
+FreeNAS on microserver gen8
+Kamil Czekirda
+
+PAM Modules
+Jarek Zurek
+
+Testing with PyTest
+Aleksander Kołowski
+
+FreeBSD Foundation
+Deb Goodkin
 </pre>
 
 <a href="https://bit.ly/bsd-pl-8">Click to register</a>
