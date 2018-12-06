@@ -26,7 +26,7 @@ FreeNAS on microserver gen8
 Kamil Czekirda
 
 PAM Modules
-Jarek Zurek
+Jarek Żurek
 
 Testing with PyTest
 Aleksander Kołowski
