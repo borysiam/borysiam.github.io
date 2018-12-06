@@ -22,7 +22,7 @@ Warszawa
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-FreeNAS na microserver gen8, czyli o czym zapomniał powiedzieć producent.
+FreeNAS na microserver gen8, czyli o czym zapomniał powiedzieć producent
 Kamil Czekirda
 
 Moduły PAMa
