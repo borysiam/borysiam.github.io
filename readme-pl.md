@@ -26,7 +26,7 @@ TBA
 </pre>
 
 
-<a href="https://bit.ly/bsd-pl-7">Rejestracja</a>
+<a href="https://bit.ly/bsd-pl-8">Rejestracja</a>
 
 Do zobaczenia!
 
