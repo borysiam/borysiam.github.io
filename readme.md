@@ -25,7 +25,7 @@ What:
 TBA
 </pre>
 
-<a href="https://bit.ly/bsd-pl-7">Click to register</a>
+<a href="https://bit.ly/bsd-pl-8">Click to register</a>
 
 See you there!
 
