@@ -25,7 +25,7 @@ O czym:
 FreeNAS na microserver gen8, czyli o czym zapomniał powiedzieć producent
 Kamil Czekirda
 
-Moduły PAMa
+Programowanie własnych modułów uwierzytelniania z wykorzystaniem mechanizmu PAM
 Jarek Żurek
 
 Pisanie testów we frameworku PyTest
