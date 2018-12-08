@@ -25,7 +25,7 @@ O czym:
 FreeNAS na microserver gen8, czyli o czym zapomniał powiedzieć producent
 Kamil Czekirda
 
-Programowanie własnych modułów uwierzytelniania z wykorzystaniem mechanizmu PAM
+FreeBSD PAM: programowanie własnych modułów uwierzytelniania
 Jarek Żurek
 
 Pisanie testów we frameworku PyTest

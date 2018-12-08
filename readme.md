@@ -25,7 +25,7 @@ What:
 FreeNAS on microserver gen8
 Kamil Czekirda
 
-Programming own authentication modules using PAM mechanism
+FreeBSD PAM: programming own authentication modules
 Jarek Żurek
 
 Testing with PyTest
