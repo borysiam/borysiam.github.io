@@ -149,7 +149,8 @@
   title: FreeNAS on microserver gen8
   date: 2018-12-13
   position: 0
-  link: 2018-12-13_0_Kamil-Czekirda_FreeNAS-on-microserver-gen8.pdf
+  external: true
+  link: https://docs.google.com/presentation/d/1C9XMKEed-yZ5MIucixcaXwzlh4sPg_vG2ABMd55iqME/edit#slide=id.p
 
 - author: Jarosław Żurek
   title: "FreeBSD PAM: programming custom authentication modules"
