@@ -152,10 +152,10 @@
   link: 2018-12-13_0_Kamil-Czekirda_FreeNAS-on-microserver-gen8.pdf
 
 - author: Jarosław Żurek
-  title: FreeBSD PAM: programming custom authentication modules
+  title: "FreeBSD PAM: programming custom authentication modules"
   date: 2018-12-13
   position: 1
-  link: 2018-12-13_1_Jarosław-Żurek_FreeBSD-PAM:-programming-custom-authentication-modules.pdf
+  link: 2018-12-13_1_Jarosław-Żurek_FreeBSD-PAM-programming-custom-authentication-modules.pdf
 
 - author: Aleksander Kołowski
   title: Testing with PyTest
