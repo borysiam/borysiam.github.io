@@ -144,3 +144,21 @@
   position: 3
   external: true
   link: https://docs.google.com/presentation/d/11ykEeoHluKqNWzqLd_NVueqCU28u0Jl8r_EnSuJQrv8/edit#slide=id.p
+
+- author: Kamil Czekirda
+  title: FreeNAS on microserver gen8
+  date: 2018-12-13
+  position: 0
+  link: 2018-12-13_0_Kamil-Czekirda_FreeNAS-on-microserver-gen8.pdf
+
+- author: Jarosław Żurek
+  title: FreeBSD PAM: programming custom authentication modules
+  date: 2018-12-13
+  position: 1
+  link: 2018-12-13_1_Jarosław-Żurek_FreeBSD-PAM:-programming-custom-authentication-modules.pdf
+
+- author: Aleksander Kołowski
+  title: Testing with PyTest
+  date: 2018-12-13
+  position: 2
+  link: 2018-12-13_2_Aleksander-Kołowski_Testing-with-PyTest.pdf
