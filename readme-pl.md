@@ -10,29 +10,17 @@ permalink: /
 
 Kiedy:
 <pre>
-13 grudnia 2018 r.
+25 stycznia 2019 r.
 18:15 - 21:00
 </pre>
 Gdzie:
 <pre>
-Wheel Systems Office
-
-Aleje Jerozolimskie 178
-Warszawa
+TBA
 </pre>
 O czym:
 <pre style="white-space: pre-wrap;">
-FreeNAS na microserver gen8, czyli o czym zapomniał powiedzieć producent
-Kamil Czekirda
+Sesja treningowa: iocage
 
-FreeBSD PAM: programowanie własnych modułów uwierzytelniania
-Jarek Żurek
-
-Pisanie testów we frameworku PyTest
-Aleksander Kołowski
-
-FreeBSD Foundation
-Deb Goodkin
 </pre>
 
 <a href="https://bit.ly/bsd-pl-8">Rejestracja</a>

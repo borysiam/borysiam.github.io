@@ -10,29 +10,17 @@ permalink: /en
 
 When:
 <pre>
-December 13, 2018
+January 25, 2019
 18:15 - 21:00
 </pre>
 Where:
 <pre>
-Wheel Systems Office
-
-Aleje Jerozolimskie 178
-Warsaw
+TBA
 </pre>
 What:
 <pre style="white-space: pre-wrap;">
-FreeNAS on microserver gen8
-Kamil Czekirda
+Training session: iocage
 
-FreeBSD PAM: programming own authentication modules
-Jarek Żurek
-
-Testing with PyTest
-Aleksander Kołowski
-
-FreeBSD Foundation
-Deb Goodkin
 </pre>
 
 <a href="https://bit.ly/bsd-pl-8">Click to register</a>
