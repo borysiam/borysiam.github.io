@@ -1,0 +1,8 @@
+---
+layout: default
+---
+{% assign meetup-number = page.permalink | split: '/' | last: %}
+
+<h1>Meetup #{{ meetup-number }}</h1>
+
+{{ content }}
