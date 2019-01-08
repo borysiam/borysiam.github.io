@@ -23,7 +23,7 @@ Training session: iocage
 
 </pre>
 
-<a href="https://bit.ly/bsd-pl-8">Click to register</a>
+<a href="/registration">Click to register</a>
 
 See you there!
 

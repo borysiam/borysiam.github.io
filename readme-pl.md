@@ -23,7 +23,7 @@ Sesja treningowa: iocage
 
 </pre>
 
-<a href="https://bit.ly/bsd-pl-8">Rejestracja</a>
+<a href="/registration">Rejestracja</a>
 
 Do zobaczenia!
 
